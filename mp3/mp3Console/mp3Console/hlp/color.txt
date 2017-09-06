@@ -1,0 +1,51 @@
+﻿Farbverwaltung
+==============
+
+Stellt Routinen bereit, um das Farbschema
+des Systems anzupassen.
+
+
+
+Farbschema verwenden
+--------------------
+Hinterlegte Farbschemata können
+gewählt werden.
+
+
+
+Rahmenfarbe ändern
+------------------
+Ermöglicht die Wahl einer anderen
+Rahmenfarbe.
+
+
+
+Schriftfarbe ändern
+-------------------
+Ermöglicht die Wahl einer anderen
+Schriftfarbe.
+
+
+
+Hintergrundfarbe ändern
+-----------------------
+Ermöglicht die Wahl einer anderen
+Hintergrundfarbe.
+
+
+
+Auswahlschriftfarbe ändern
+--------------------------
+Ermöglicht die Wahl einer anderen
+Auswahlschriftfarbe.
+
+
+
+Auswahlhintergrundfarbe ändern
+------------------------------
+Ermöglicht die Wahl einer anderen
+Auswahlhintergrundfarbe.
+
+
+
+<ESC> Hilfe schließen

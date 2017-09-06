@@ -1,0 +1,50 @@
+GREATNET-Zugangsdaten
+---------------------
+
+Allgemein
+=========
+Server-IP:		83.133.97.6
+Domain:			vanitas-mundi.de
+
+
+
+Confixx-Zugang
+==============
+url:			http://83.133.97.6/user/
+user:			web103
+pwd:			Prugnat.web
+
+
+
+MySQL-Zugang
+============
+user:			web103
+pwd:			Prugnat.sql
+database:		usr_web103_1
+
+
+
+FTP-Zugang
+==========
+WinExplorer:	ftp://web103:Prugnat.web@www.vanitas-mundi.de
+user:			web103
+pwd:			Prugnat.web
+
+
+
+Kontakt
+=======
+
+Greatnet New Media
+Brentenstraﬂe 4a
+83734 Hausham
+
+E-Mail:			info@greatnet.de
+url:			www.greatnet.de
+
+
+Telefon:
+Rechnung / Buchhaltung: 08026 92860-10
+Support:                08026 92860-30
+Produktinfos:           08026 92860-50
+Telefax:                08026 92860-73

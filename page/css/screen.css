@@ -1,0 +1,35 @@
+body{
+background-color: #096;
+background-image: url(../img/hintergrund.png);
+background-repeat: repeat-x;
+margin: 0;
+text-align: center;
+}
+div#wrapper{
+width: 740px;
+margin: 0 auto;
+text-align: left;
+}
+div#header{
+background-color: #F00;
+margin: 15px 0 0 0;
+width: 740px;
+}
+div#navi{
+width: 140px;
+float: left;
+background-color: #00F;
+}
+div#content{
+width: 600px;
+float: right;
+background-color: #FFF;
+}
+div#footer{
+width: 600px;
+float: right;
+background-color: #FF0;
+}
+.clear{
+clear: both;
+}

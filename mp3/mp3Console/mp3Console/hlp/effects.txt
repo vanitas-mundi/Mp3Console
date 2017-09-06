@@ -1,0 +1,20 @@
+﻿Effekte
+==========
+
+Mischt verschiedene Effekte in die
+Wiedergabe.
+
+Effekte:
+ - ChorusSoundEffect
+ - CompressorSoundEffect
+ - DistortionSoundEffect
+ - EchoSoundEffect
+ - FlangerSoundEffect 
+ - GargleSoundEffect 
+ - I3DL2ReverbSoundEffect 
+ - ParamEqSoundEffect 
+ - WavesReverbSoundEffect
+
+
+
+<ESC> Hilfe schließen

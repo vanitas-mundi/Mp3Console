@@ -1,0 +1,60 @@
+﻿Id3-Tag-Editor
+==============
+
+Der Id3-Tag-Editor ist nur in der Lage Id3-Tags
+von indizierten Musikdateien zu speichern.
+
+Ausgewählte Musikdateien, welche z.B. über
+die Direktsuche, aus einer Datei oder einem
+Ordner stammen und nicht indiziert wurden,
+können zwar ohne Fehlermeldung bearbeitet werden,
+jedoch werden die Id3-Tags nicht geschrieben.
+
+Wenn möglich werden die Tag-Versionen ID3v1 und
+ID3v2.3 gespeichert.
+
+Bei allen Menüpunkten bricht ESC die momentane
+Routine ab.
+
+
+
+ID3 aktueller Titel
+-------------------
+Dieser Menüpunkt ermöglicht es den Id3-Tag des
+aktuellen Titels zu bearbeiten. Nach Angabe des
+Bezugfeldes und des neuen Wertes, wird der Tag
+gespeichert.
+
+
+
+ID3 aktuelles Album
+-------------------
+Erlaubt die Bearbeitung des Id3-Tags des aktuellen
+Albums. Alle Titel des Albums des aktuellen Titels
+werden, aus dem Index, ermittelt und bearbeitet.
+Nach Angabe des Bezugfeldes und des neuen Wertes, 
+wird der Tag der einzelnen Titel gespeichert.
+
+
+
+ID3 aktueller Interpret
+-----------------------
+Erlaubt die Bearbeitung des Id3-Tags des aktuellen
+Interpreten. Alle Titel des Interpreten des aktuellen Titels
+werden, aus dem Index, ermittelt und bearbeitet.
+Nach Angabe des Bezugfeldes und des neuen Wertes, 
+wird der Tag der einzelnen Titel gespeichert.
+
+
+
+ID3 aktuelles Genre
+-------------------
+Erlaubt die Bearbeitung des Id3-Tags des aktuellen
+Genres. Alle Titel des Genres des aktuellen Titels
+werden, aus dem Index, ermittelt und bearbeitet.
+Nach Angabe des Bezugfeldes und des neuen Wertes, 
+wird der Tag der einzelnen Titel gespeichert.
+
+
+
+<ESC> Hilfe schließen

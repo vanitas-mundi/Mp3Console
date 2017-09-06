@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mp3Console", "mp3Console\mp3Console.vbproj", "{E6F60065-FDE8-4DC7-83C9-91701EF427DD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IndexerLibrary", "..\IndexerLibrary\IndexerLibrary\IndexerLibrary.vbproj", "{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Debug|x86.ActiveCfg = Debug|x86
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Debug|x86.Build.0 = Debug|x86
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Release|Any CPU.ActiveCfg = Release|x86
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Release|x86.ActiveCfg = Release|x86
+		{E6F60065-FDE8-4DC7-83C9-91701EF427DD}.Release|x86.Build.0 = Release|x86
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Debug|x86.ActiveCfg = Debug|x86
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Debug|x86.Build.0 = Debug|x86
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Release|x86.ActiveCfg = Release|x86
+		{D0F5068A-EC7E-44DB-8634-D97FE5EFD1AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+﻿Wechselmediumauslagerung
+========================
+
+Lagert Lieder auf Wechseldatenträgern aus.
+
+
+
+Zufällige Auswahl
+-----------------
+Lagert zufällige Lieder bis zu einer
+angegebenen Obergrenze auf einem
+Wechseldatenträger aus.
+
+
+
+Indexauswahl
+------------
+Lagert ein Album oder ein Lied
+auf einen Wechseldatenträger aus.
+
+
+
+Spielhistorie
+-------------
+Lagert die aktuelle Spielhistorie auf einen
+Wechseldatenträger aus.
+
+
+
+<ESC> Hilfe schließen

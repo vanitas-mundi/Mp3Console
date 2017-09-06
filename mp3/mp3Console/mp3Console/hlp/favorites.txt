@@ -1,0 +1,31 @@
+﻿Favoritenverwaltung
+===================
+
+Favoriten können gesichert, geladen 
+und wiedergegeben werden.
+
+
+
+Favoritensicherung anlegen
+--------------------------
+Sichert die aktuell hinterlegten
+Favoriten im Dateisystem.
+
+
+
+Favoritensicherung einspielen
+-----------------------------
+Erstezt die aktuellen Favoriten
+durch eine zuvor erstellte Sicherung.
+
+
+
+Favoritenwiedergabe
+-------------------
+Gibt bei Aktivierung nur Lieder mit
+einer bestimmten Favortitenpriorietät
+wieder.
+
+
+
+<ESC> Hilfe schließen

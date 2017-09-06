@@ -1,0 +1,50 @@
+﻿Suche
+=====
+
+Die Suchfunktion durchsucht
+den aktuellen Index und gibt
+darauf nach Wunsch die gefundenen
+Titel wieder. Für die Suche werden
+vollständige ID3-Tags benötigt.
+
+
+
+Suchbegriff
+-----------
+Durchsucht gleichzeitig Interpret, 
+Album, Titel, Kommentar, Genre und Jahr
+und zeigt das Ergebnis an.
+
+
+
+Titelsuche
+----------
+Durchsucht Titel und zeigt das Ergebnis an.
+
+
+
+Interpretensuche
+----------------
+Durchsucht Interpreten und zeigt das Ergebnis an.
+
+
+
+Albumsuche
+----------
+Durchsucht Albentitel und zeigt das Ergebnis an.
+
+
+
+Genresuche
+----------
+Durchsucht Genres und zeigt das Ergebnis an.
+
+
+
+Kommentarsuche
+--------------
+Durchsucht Kommentare und zeigt das Ergebnis an.
+
+
+
+<ESC> Hilfe schließen

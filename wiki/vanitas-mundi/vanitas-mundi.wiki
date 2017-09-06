@@ -1,0 +1,28 @@
+[wiki_db]
+data_dir = data
+
+[main]
+footnotes_as_wikiwords = False
+last_wiki_word = Konstitution
+hotkey_showhide_bywiki = 
+log_window_autoshow = Gray
+export_default_dir = 
+filestorage_identity_filenamemustmatch = False
+wiki_icon = 
+wiki_name = vanitas-mundi
+tree_expandednodes_rememberduration = 2
+wikipagetitleprefix = ++
+wikipagetitle_fromlinktitle = False
+first_wiki_word = 
+wikipagetitle_creationmode = 1
+tree_expandednodes_descriptorpathes_main = wikipage/vanitas-mundi,wikipage/Schwert und Lanze,wikipage/Eigenschaften;wikipage/vanitas-mundi,wikipage/Schwert und Lanze;wikipage/vanitas-mundi
+tree_last_root_wiki_word = vanitas-mundi
+tree_force_scratchpad_visibility = True
+further_wiki_words = 
+tree_expandednodes_descriptorpathes_views = 
+db_pagefile_suffix = .wiki
+filestorage_identity_moddatemustmatch = False
+filestorage_identity_moddateisenough = False
+wiki_database_type = compact_sqlite
+wiki_readonly = False
+

@@ -1,0 +1,37 @@
+﻿Filterverwaltung
+================
+
+In einem Filter können Genres
+angegeben werden, welche bei der
+Wiedergabe verwendet werden.
+Nach angabe eines Filters werden
+nur noch Lieder mit passendem
+Genre abgespielt.
+
+
+
+Filterverzeichnis wechseln
+--------------------------
+Legt das Filterverzeichnis fest.
+
+
+
+Aktuellen Filter wechseln
+-------------------------
+Wechselt den aktuellen Filter.
+
+
+
+Neuen Filter erstellen
+----------------------
+Legt einen neuen Filter an.
+
+
+
+Filter löschen
+--------------
+Löscht einen vorhandenen Filter.
+
+
+
+<ESC> Hilfe schließen

@@ -1,0 +1,10 @@
+﻿Soundausgabe
+============
+
+Bei mehreren vorhandenen Soundkarten,
+kann hier das Ausgabegerät gewählt
+werden.
+
+
+
+<ESC> Hilfe schließen

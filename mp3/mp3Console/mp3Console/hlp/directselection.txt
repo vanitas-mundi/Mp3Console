@@ -1,0 +1,41 @@
+﻿Direktwahl
+==========
+
+Indexbrowser
+------------
+
+
+
+Zufälliges Album
+----------------
+Hiermit kann der aktuelle Index
+durchstöbert werden und bei Bedarf
+ein Album oder ein Lied abgespielt
+werden.
+
+
+
+Playlist wählen
+---------------
+Wählt eine im Dateisystem hinterlegte
+Playlist für das Abspielen.
+
+
+
+MP3-Datei wählen
+----------------
+Wählt unabhängig vom Index eine
+beliebige MP3-Datei, für die 
+Wiedergabe.
+
+
+
+MP3-Ordner wählen
+-----------------
+Wählt unabhängig vom Index einen
+beliebige MP3-Ordner, für die 
+Wiedergabe.
+
+
+
+<ESC> Hilfe schließen

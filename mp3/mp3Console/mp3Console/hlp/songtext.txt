@@ -1,0 +1,34 @@
+﻿Songtext
+========
+
+Ruft den Songtext eines Lieder 
+(falls möglich), aus dem Internet
+ab.
+
+
+
+Aktueller Titel
+---------------
+Ruft den Songtext des aktuell
+wiedergegebenen Titels, aus 
+dem Internet ab.
+
+
+
+Indexauswahl
+------------
+Lässt ein Lied aus dem aktuellen
+Index wählen und ruft den Songtext,
+aus dem Internet ab.
+
+
+
+Benutzereingabe
+---------------
+Lässt Interpret und Liedtitel
+eingeben und ruft den Songtext,
+aus dem Internet ab.
+
+
+
+<ESC> Hilfe schließen

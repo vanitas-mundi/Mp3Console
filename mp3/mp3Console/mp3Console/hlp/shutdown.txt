@@ -1,0 +1,22 @@
+﻿Systemshutdown
+==============
+
+Ermöglicht es, das System zu einer
+festgelegten Zeit herunterfahren
+zu lassen.
+
+
+
+Shutdown setzen
+---------------
+Legt in Minuten die Shutdown-Zeit fest.
+
+
+
+Shutdown abbrechen
+------------------
+Bricht den Shutdown ab.
+
+
+
+<ESC> Hilfe schließen

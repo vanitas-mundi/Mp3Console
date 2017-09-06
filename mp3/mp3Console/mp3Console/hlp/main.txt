@@ -1,0 +1,126 @@
+﻿mp3Console
+==========
+
+Die mp3Console ist ein leistungsfähiges 
+Programm zur Wiedergabe und Verwaltung 
+von Musikdateien im MP3-Format.
+Für die Soundwiedergabe kam die freie
+Audiobibliothek irrKlang zum Einsatz 
+(http://www.ambiera.com/irrklang/).
+Die Bearbeitung von Id3-Tags wurde mit 
+UltraID3Lib realisiert
+(http://home.fuse.net/honnert/hundred/UltraID3Lib/).
+Die Webseite http://lyricwiki.org/server.php?wsdl
+wird für die Anzeige von Songtexten benutzt.
+Alle Daten der Indexes liegen im XML-Format vor.
+
+
+Features:
+
+ - Indexbasierte Datenhaltung für verschiedene
+   Musikdateizusammenstellungen.
+ - Unterstützung von unterschiedlichen 
+   Audiocontrollern (Soundkarten).
+ - Zufällige Endloswiedergabe ohne umständliche 
+   Wiedergabelisten.
+ - Titel und Position der letzten Wiedergabe 
+   können gespeichert werden.
+ - Schnelle Volltextsuche
+   (Titel, Interpret, Album, Genre).
+ - Unterstützung von Filtern zur Wiedergabe 
+   ausgewählter Genres.
+ - Abruf von Songtexten aus dem Internet.
+ - Schnelle zufällige Auslagerung auf 
+   Wechseldatenträgern (z.B. USB.Sticks).
+ - Bearbeitung von Id3-Tags.
+ - Shutdown-Funktion für einen automatischen 
+   Systemshutdown.
+ - Direktwahlfunktion zur schnellen Wiedergabe,
+   auch für nicht indizierte Dateien.
+ - Resourcensparende, schnelle Konsolenanwendung.
+
+
+
+Funktionsumfang
+ │
+ ├ Wiedergabe/Pause
+ ├ Nächster Titel
+ ├ Vorheriger Titel
+ ├ Lautstärke/ Suchlauf
+ │  ├ Lautstärke erhöhen
+ │  ├ Lautstärke senken
+ │  ├ Lautstärke eingeben
+ │  ├ Suchlauf vor
+ │  ├ Suchlauf zurück
+ │  └ Suchlaufdistanz
+ ├ Effekte
+ │  ├ ChorusSoundEffect
+ │  ├ CompressorSoundEffect
+ │  ├ DistortionSoundEffect
+ │  ├ EchoSoundEffect
+ │  ├ FlangerSoundEffect
+ │  ├ GargleSoundEffect
+ │  ├ I3DL2ReverbSoundEffect
+ │  ├ Lautstärke eingeben
+ │  ├ ParamEqSoundEffect
+ │  └ WavesReverbSoundEffect
+ ├ Suche
+ │  ├ Suchbegriff
+ │  ├ Titelsuch
+ │  ├ Interpretensuche
+ │  ├ Albumsuche
+ │  ├ Genresuche
+ │  └ Kommentarsuche
+ ├ Direktwahl
+ │  ├ Indexbrowser
+ │  ├ Zufälliges Album
+ │  ├ Playlist wählen
+ │  ├ MP3-Datei wählen
+ │  └ MP3-Ordner wählen
+ ├ Songtext
+ │  ├ Aktueller Titel
+ │  ├ Indexauswahl
+ │  └ Benutzereingabe  
+ ├ Historie anzeigen
+ ├ ID3-Tag-Editor
+ │  ├ ID3 aktueller Titel
+ │  ├ ID3 aktuelles Album
+ │  ├ ID3 aktueller Interpret
+ │  └ ID3 aktuelles Genre
+ └ Verwaltung
+     ├ Filterverwaltung
+     │  ├ Filterdetails
+     │  ├ Filterverzeichnis wechseln
+     │  ├ Aktuellen Filter entfernen
+     │  ├ Aktuellen Filter wechseln
+     │  ├ Neuen Filter erstellen
+     │  └ Filter löschen
+     ├ Favoritenverwaltung
+     │  ├ Favoritensicherung anlegen
+     │  ├ Favoritensicherung einspielen
+     │  └ Favoritenwiedergabe
+     ├ Indexverwaltung  
+     │  ├ indexverzeichnis wechslen
+     │  ├ Aktuellen Index wechseln
+     │  ├ Neuen index erstellen
+     │  └ Index löschen
+     ├ Soundausgabe
+     ├ Wechselmediumauslagerung
+     │  ├ Zufällige Auswahl
+     │  ├ Indexauswahl
+     │  └ Spielhistorie
+     ├ Systemshutdown
+     │  ├ Shutdown setzen
+     │  └ Shutdown abbrechen
+     ├ Farbverwaltung
+     │  ├ Farbschema verwenden
+     │  ├ Rahmenfarbe ändern
+     │  ├ Schriftfarbe ändern
+     │  ├ Hintergrundfarbe ändern
+     │  ├ Auswahlschriftfarbe ändern
+     │  └ Auswahlhintergrundfarbe ändern
+     └ Info
+
+
+
+<ESC> Hilfe schließen

@@ -1,0 +1,52 @@
+﻿Lautstärke/ Suchlauf
+====================
+
+Steuert die Höhe der Lautstärke
+und führt bei Wunsch einen Suchlauf
+durch. Mit den Tasten 0-9 kann die 
+Lautstärke schnell eingestellt werden.
+0 schaltet die Lautstärke auf stumm.
+
+
+
+Lautstärke erhöhen
+------------------
+Erhöht die Lautstärke um 10%.
+
+
+
+Lautstärke senken
+-----------------
+Senkt die Lautstärke um 10%.
+
+
+
+Lautstärke eingeben
+-------------------
+Der Benutzer kann die Lautstärke
+in Prozent selbst eingeben.
+
+
+
+Suchlauf vor
+------------
+Die Wiedergabe wird um die
+Suchlaufdistanz vorgespult.
+
+
+
+Suchlauf zurück
+---------------
+Die Wiedergabe wird um die
+Suchlaufdistanz zurückgespult.
+
+
+
+Suchlaufdistanz
+---------------
+Legt die Suchlaufdistanz in
+Prozent oder Sekunden fest.
+
+
+
+<ESC> Hilfe schließen

@@ -1,0 +1,12 @@
+﻿Spielhistorie
+=============
+
+Beinhaltet eine Liste mit gespielten
+und noch zu spielenden Liedern. Die
+aktuelle Wiedergabe ist selektiert.
+Mit Enter kann die aktuelle
+Wiedergabeposition geändert werden.
+
+
+
+<ESC> Hilfe schließen

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IndexDataSet" targetNamespace="http://tempuri.org/IndexDataSet.xsd" xmlns:mstns="http://tempuri.org/IndexDataSet.xsd" xmlns="http://tempuri.org/IndexDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="IndexDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="IndexDataSet" msprop:Generator_UserDSName="IndexDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="folders" msprop:Generator_UserTableName="folders" msprop:Generator_RowEvArgName="foldersRowChangeEvent" msprop:Generator_TableVarName="tablefolders" msprop:Generator_TablePropName="folders" msprop:Generator_RowDeletingName="foldersRowDeleting" msprop:Generator_RowChangingName="foldersRowChanging" msprop:Generator_RowDeletedName="foldersRowDeleted" msprop:Generator_TableClassName="foldersDataTable" msprop:Generator_RowChangedName="foldersRowChanged" msprop:Generator_RowEvHandlerName="foldersRowChangeEventHandler" msprop:Generator_RowClassName="foldersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="path" msprop:Generator_ColumnVarNameInTable="columnpath" msprop:Generator_ColumnPropNameInRow="path" msprop:Generator_ColumnPropNameInTable="pathColumn" msprop:Generator_UserColumnName="path" type="xs:string" />
+              <xs:element name="root_folder" msprop:Generator_ColumnVarNameInTable="columnroot_folder" msprop:Generator_ColumnPropNameInRow="root_folder" msprop:Generator_ColumnPropNameInTable="root_folderColumn" msprop:Generator_UserColumnName="root_folder" type="xs:string" minOccurs="0" />
+              <xs:element name="last_write_time" msprop:Generator_ColumnVarNameInTable="columnlast_write_time" msprop:Generator_ColumnPropNameInRow="last_write_time" msprop:Generator_ColumnPropNameInTable="last_write_timeColumn" msprop:Generator_UserColumnName="last_write_time" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="files" msprop:Generator_UserTableName="files" msprop:Generator_RowEvArgName="filesRowChangeEvent" msprop:Generator_TableVarName="tablefiles" msprop:Generator_TablePropName="files" msprop:Generator_RowDeletingName="filesRowDeleting" msprop:Generator_RowChangingName="filesRowChanging" msprop:Generator_RowDeletedName="filesRowDeleted" msprop:Generator_TableClassName="filesDataTable" msprop:Generator_RowChangedName="filesRowChanged" msprop:Generator_RowEvHandlerName="filesRowChangeEventHandler" msprop:Generator_RowClassName="filesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="path" msprop:Generator_ColumnVarNameInTable="columnpath" msprop:Generator_ColumnPropNameInRow="path" msprop:Generator_ColumnPropNameInTable="pathColumn" msprop:Generator_UserColumnName="path" type="xs:string" minOccurs="0" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" type="xs:string" minOccurs="0" />
+              <xs:element name="artist" msprop:Generator_ColumnVarNameInTable="columnartist" msprop:Generator_ColumnPropNameInRow="artist" msprop:Generator_ColumnPropNameInTable="artistColumn" msprop:Generator_UserColumnName="artist" type="xs:string" minOccurs="0" />
+              <xs:element name="album" msprop:Generator_ColumnVarNameInTable="columnalbum" msprop:Generator_ColumnPropNameInRow="album" msprop:Generator_ColumnPropNameInTable="albumColumn" msprop:Generator_UserColumnName="album" type="xs:string" minOccurs="0" />
+              <xs:element name="title" msprop:Generator_ColumnVarNameInTable="columntitle" msprop:Generator_ColumnPropNameInRow="title" msprop:Generator_ColumnPropNameInTable="titleColumn" msprop:Generator_UserColumnName="title" type="xs:string" minOccurs="0" />
+              <xs:element name="track" msprop:Generator_ColumnVarNameInTable="columntrack" msprop:Generator_ColumnPropNameInRow="track" msprop:Generator_ColumnPropNameInTable="trackColumn" msprop:Generator_UserColumnName="track" type="xs:string" minOccurs="0" />
+              <xs:element name="year" msprop:Generator_ColumnVarNameInTable="columnyear" msprop:Generator_ColumnPropNameInRow="year" msprop:Generator_ColumnPropNameInTable="yearColumn" msprop:Generator_UserColumnName="year" type="xs:string" minOccurs="0" />
+              <xs:element name="comment" msprop:Generator_ColumnVarNameInTable="columncomment" msprop:Generator_ColumnPropNameInRow="comment" msprop:Generator_ColumnPropNameInTable="commentColumn" msprop:Generator_UserColumnName="comment" type="xs:string" minOccurs="0" />
+              <xs:element name="genre" msprop:Generator_ColumnVarNameInTable="columngenre" msprop:Generator_ColumnPropNameInRow="genre" msprop:Generator_ColumnPropNameInTable="genreColumn" msprop:Generator_UserColumnName="genre" type="xs:string" minOccurs="0" />
+              <xs:element name="size" msprop:Generator_ColumnVarNameInTable="columnsize" msprop:Generator_ColumnPropNameInRow="size" msprop:Generator_ColumnPropNameInTable="sizeColumn" msprop:Generator_UserColumnName="size" type="xs:string" minOccurs="0" />
+              <xs:element name="duration" msprop:Generator_ColumnVarNameInTable="columnduration" msprop:Generator_ColumnPropNameInRow="duration" msprop:Generator_ColumnPropNameInTable="durationColumn" msprop:Generator_UserColumnName="duration" type="xs:string" minOccurs="0" />
+              <xs:element name="bitrate" msprop:Generator_ColumnVarNameInTable="columnbitrate" msprop:Generator_ColumnPropNameInRow="bitrate" msprop:Generator_ColumnPropNameInTable="bitrateColumn" msprop:Generator_UserColumnName="bitrate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="path" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:folders" />
+      <xs:field xpath="mstns:path" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="path" msdata:parent="folders" msdata:child="files" msdata:parentkey="path" msdata:childkey="path" msprop:Generator_UserChildTable="files" msprop:Generator_ChildPropName="GetfilesRows" msprop:Generator_UserParentTable="folders" msprop:Generator_UserRelationName="path" msprop:Generator_RelationVarName="relationpath" msprop:Generator_ParentPropName="folderRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

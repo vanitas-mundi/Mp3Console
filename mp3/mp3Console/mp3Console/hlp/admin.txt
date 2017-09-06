@@ -1,0 +1,76 @@
+﻿Verwaltung
+==========
+
+Unter Verwaltung verbergen sich eine
+Reihe von nützlichen Tools zur
+Systemverwaltung und zusätzliche
+Funktionen.
+
+
+
+Filterverwaltung
+----------------
+Öffnet die Filterverwaltung, welche 
+die Auswahl und Verwaltung von Filtern
+ermöglicht.
+
+
+
+Favoritenverwaltung
+----------------
+Öffnet die Favoritenverwaltung, welche 
+das Sichern und Wiederherstellen, sowie
+das Abspielen von Favoriten ermöglicht
+
+
+
+Indexverwaltung
+---------------
+Wechselt zur Indexverwaltung, welche 
+die Auswahl und Verwaltung von Filtern
+ermöglicht.
+
+
+
+Soundausgabe
+------------
+Ermöglicht die Auswahl des zu verwendenen
+SoundControllers (Soundkarte).
+
+
+
+Wechselmediumauslagerung
+------------------------
+Fragt Datenträger, Ordner und Gesamtgröße (MB)
+ab, für eine Auslagerung von zufälligen
+musikdateien.
+
+
+
+Playlist anlegen
+----------------
+Ermöglicht das Anlegen von Playlists.
+
+
+
+Systemshutdown
+--------------
+Zeigt ein Menü zum Setzen oder Abbrechen
+eines Systemshutdowns.
+
+
+
+Farbverwaltung
+--------------
+Öffnet die Farbverwaltung zur Änderung
+des Systemfarbschemas.
+
+
+
+Info
+----
+Blendet den Startbildschirm ein.
+
+
+
+<ESC> Hilfe schließen

@@ -1,0 +1,40 @@
+﻿Indexverwaltung
+===============
+
+Die Indexverwaltung verwaltet
+sämtliche angelegte Indizes.
+Ein Index hält Informationen
+für die Wiedergabe bestimmter
+Lieder. Es werden immer nur 
+Lieder, welche im aktuellen
+Index gelistet sind, wiedergegeben.
+
+
+
+Indexverzeichnis wechseln
+-------------------------
+Legt das Indexverzeichnis fest.
+
+
+
+Aktuellen Index wechseln
+------------------------
+Wechselt den aktuellen Index.
+
+
+
+Neuen Index erstellen
+---------------------
+Erstellt einen neuen Index.
+Der angegebene Dateiordner, sowie
+alle Unterordner werden indiziert.
+
+
+
+Index löschen
+-------------
+Löscht einen vorhandenen Index.
+
+
+
+<ESC> Hilfe schließen
